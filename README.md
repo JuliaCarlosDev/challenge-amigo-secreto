@@ -1,6 +1,7 @@
 # Amigo Secreto
 
 Olá! Este projeto é uma aplicação simples e divertida que permite adicionar amigos a uma lista e sortear um amigo aleatoriamente.
+<img src="https://i.postimg.cc/BbfKvdz2/Captura-de-tela-2025-03-18-222129.png">
 
 ## Instalação
 1. **Clone o repositório**: Isso significa copiar o código do projeto para o seu computador. Você pode fazer isso usando um programa chamado Git.
