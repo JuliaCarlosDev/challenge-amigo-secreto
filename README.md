@@ -1,11 +1,13 @@
 # Amigo Secreto
 
-Olá! Este projeto é uma aplicação simples e divertida que permite adicionar amigos a uma lista e sortear um amigo aleatoriamente.
+Olá! Este <a href="https://challenge-amigo-secreto-git-main-juliacarlosdevs-projects.vercel.app" target="_blank">projeto</a>
+ é uma aplicação simples e divertida que permite adicionar amigos a uma lista e sortear um amigo aleatoriamente.
 <img src="https://i.postimg.cc/XvcMhFb3/Captura-de-tela-2025-03-18-223557.png">
 
 ## Instalação
 1. **Clone o repositório**: Isso significa copiar o código do projeto para o seu computador. Você pode fazer isso usando um programa chamado Git.
 2. **Abra `index.html` no navegador**: Após copiar o código, você precisa abrir um arquivo chamado `index.html` no seu navegador (como Google Chrome ou Mozilla Firefox) para ver o projeto funcionando.
+3. **Ou acesse pelo vercel:<a href="https://challenge-amigo-secreto-git-main-juliacarlosdevs-projects.vercel.app" target="_blank"> Sorteador amigo secreto</a>**
 
 ## Dependências
 - **HTML**: É uma linguagem usada para criar páginas na internet. Neste projeto, ela ajuda a estruturar a página.
